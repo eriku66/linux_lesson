@@ -4,13 +4,12 @@ Commands learned in this section
 - cd
 - mkdir
 - touch
-- &&
+- \&\&
 - cp
 - mv
 - rm
-- *
+- \*
 - cat
-- >
-- >>
+- \>
+- \>\>
 - vi
-
